@@ -12,7 +12,7 @@ El proyecto incluye todo el código fuente necesario para ejecutar la calculador
 Este proyecto es una excelente opción para aquellos que deseen aprender a crear aplicaciones gráficas simples en Python o para aquellos que deseen expandir sus habilidades de programación. Además, el proyecto es fácilmente adaptable y puede ser modificado para incluir funciones adicionales o para personalizar la interfaz de usuario según las necesidades del usuario.
 
 
-
+-------------------------------------------------------------------------------------------------------------------
 
 Para utilizar la calculadora en Python con Tkinter, necesitas tener instalado Python en tu ordenador. Puedes descargar la versión más reciente de Python desde la página oficial de descargas de Python: https://www.python.org/downloads/
 
